@@ -91,9 +91,6 @@ saucedemo-playwright/
 
 The suite uses Playwright's web-first assertions and user-facing locators such as roles, labels, placeholders, and test IDs. This keeps the tests readable and less dependent on fragile DOM structure.
 
-## GitHub
-
-After pushing this project, add the repository URL to your CV under Projects, for example:
 
 **Playwright E2E Automation — SauceDemo**
 - Built and maintained 16 automated UI tests using Playwright Test and JavaScript.
