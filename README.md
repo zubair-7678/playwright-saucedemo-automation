@@ -23,7 +23,6 @@ A practical end-to-end UI automation project built with **Playwright Test** agai
 - Checkout postal-code validation
 - Complete checkout flow
 
-> SauceDemo does not provide a traditional product search box, so the suite covers the site's closest real product-discovery functionality: catalog verification and sorting.
 
 ## Tech stack
 
